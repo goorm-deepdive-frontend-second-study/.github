@@ -1,5 +1,8 @@
-![image](https://github.com/user-attachments/assets/416f3cf2-1789-4197-9833-a7e913d5d965)
+# DEEPDIVE 4월 팀스터디 4조 하맹신
 
+구름톤 딥다이브 프론트엔드 3회차 - 2차 팀스터디 4조`하맹신` 입니다.
+
+---
 
 ### **1. 월, 수(14:00 ~ 17:00) JavaScript로 프로그래머스 문제 풀기**
 
